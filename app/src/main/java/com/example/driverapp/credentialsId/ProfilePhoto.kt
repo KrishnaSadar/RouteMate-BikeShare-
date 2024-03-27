@@ -47,7 +47,7 @@ class ProfilePhoto : AppCompatActivity() {
                     val intent = Intent(this, legalAuthenticationActivity::class.java)
                     val editor=getSharedPreferences("LegalAuthrntication", MODE_PRIVATE).edit()
                     editor.putString("boolprofille","1")
-                    editor.putString("Profileurl",imageUrl.toString()+user.toString())
+                    editor.putString("Profileurl",imageUrl.toString())
                     editor.apply()
                     startActivity(intent)
                     finish()
@@ -76,7 +76,9 @@ class ProfilePhoto : AppCompatActivity() {
 
     private fun uploadImageToFirebase(imageUri: Uri?) {
         if (imageUri != null) {
-            val imageName = "profile_img.jpg" // Name for the image file in Firebase Storage
+             val  k=getSharedPreferences("LegalAuthrntication", MODE_PRIVATE)
+                    val user=k.getString("user","null")
+            val imageName = "profile_img"+"user.toString()"+".jpg" // Name for the image file in Firebase Storage
             val imageRef = storageRef.child(imageName)
             val uploadTask = imageRef.putFile(imageUri)
 
