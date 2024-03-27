@@ -67,7 +67,7 @@ class AdharCard : AppCompatActivity() {
                     val editor=getSharedPreferences("LegalAuthrntication", MODE_PRIVATE).edit()
                     editor.putString("boolAdhar","1")
                     editor.putString("AdharNumber",adharNumber)
-                    editor.putString("Adharurl",imageUrl.toString()+user.toString())
+                    editor.putString("Adharurl",imageUrl.toString())
                     editor.apply()
                     startActivity(intent)
                     finish()
@@ -102,7 +102,9 @@ class AdharCard : AppCompatActivity() {
 
     private fun uploadImageToFirebase(imageUri: Uri?) {
         if (imageUri != null) {
-            val imageName = "adhar_img.jpg" // Name for the image file in Firebase Storage
+            val  k=getSharedPreferences("LegalAuthrntication", MODE_PRIVATE)
+                    val user=k.getString("user","null")
+            val imageName = "adhar_img"+"user.toString()"+".jpg" // Name for the image file in Firebase Storage
             val imageRef = storageRef.child(imageName)
             val uploadTask = imageRef.putFile(imageUri)
 
