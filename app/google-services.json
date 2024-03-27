@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092202004273",
+    "project_id": "o7-edai",
+    "storage_bucket": "o7-edai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092202004273:android:14063d8eac0e5cef283a10",
+        "android_client_info": {
+          "package_name": "com.example.driverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

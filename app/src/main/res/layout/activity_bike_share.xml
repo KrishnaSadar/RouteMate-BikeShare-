@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".BikeShare">
+
+    <EditText
+        android:id="@+id/startLocation"
+        android:layout_width="366dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:hint="Starting location"
+        android:inputType="text"
+        android:paddingLeft="20dp"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <EditText
+        android:id="@+id/endLocation"
+        android:layout_width="366dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:hint="Ending location"
+        android:inputType="text"
+        android:paddingLeft="20dp"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/startLocation"
+        app:layout_constraintStart_toStartOf="@+id/startLocation"
+        app:layout_constraintTop_toBottomOf="@+id/startLocation" />
+
+    <android.widget.Button
+        android:id="@+id/find"
+        android:layout_width="192dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="204dp"
+        android:background="@drawable/continue_button"
+        android:text="Find"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.592"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv"
+        android:layout_width="391dp"
+        android:layout_height="547dp"
+        android:layout_marginTop="292dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:listitem="@layout/rvforbikeandrisdeshare" >
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

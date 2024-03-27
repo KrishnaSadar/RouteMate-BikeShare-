@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RouteMate</string>
+    <string name="webApi">AIzaSyB6gUQiCyxUwbQ6O9t6CEAD89YFY66H0dE</string>
+    <string name="my_text"><u>Upload your document </u>.</string>
+    <string name="default_web_client_id">1092202004273-unmuvqglrjtp620ibedrif6fiumqupd6.apps.googleusercontent.com</string>
+    <string name="razorpay">rzp_test_kaaL0urTmlOHSN</string>
+
+</resources>
