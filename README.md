@@ -74,7 +74,7 @@ Kotlin, Android Studio, Firebase, FCM, API Integration Volley...
 [apache 1.2.0](https://choosealicense.com/licenses/mit/)
 
 
-![Logo](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/play_store_512.png?alt=media&token=23f879ad-1093-4145-b669-c39972ccb78d)
+![Logo](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FScreenshot%202024-03-10%20173544.png?alt=media&token=0fbd9ca3-ac07-4c9f-9c39-c566f71a9f17)
 
 
 | Image 1 | Image 2 | Image 3 |
@@ -86,13 +86,13 @@ Kotlin, Android Studio, Firebase, FCM, API Integration Volley...
 | ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/gitpic%2FScreenshot%202024-05-14%20032355.png?alt=media&token=c87c145f-1775-405d-87b9-c8de0384f53d) | ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/gitpic%2FScreenshot%202024-05-14%20033231.png?alt=media&token=d4e18533-20e2-4591-b774-336059c92c8c) |
 
 ## Driver Request Video
-[![Video Thumbnail](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/play_store_512.png?alt=media&token=23f879ad-1093-4145-b669-c39972ccb78d)](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Screen_recording_20240328_013407.webm?alt=media&token=06b50ccc-aa9f-49aa-a9df-d4562da0cca0)
+[![Video Thumbnail](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FScreenshot%202024-03-10%20173544.png?alt=media&token=0fbd9ca3-ac07-4c9f-9c39-c566f71a9f17)](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FDriverRequest.mp4?alt=media&token=1ba9f749-7c7d-4958-8aaa-5ee9db04ce3e)
 
 ## Rider Request Video
-[![Video Thumbnail](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/play_store_512.png?alt=media&token=23f879ad-1093-4145-b669-c39972ccb78d)](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/riderrequest.mp4?alt=media&token=765058db-cc48-4bcc-90b3-745af8d900d9)
+[![Video Thumbnail](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FScreenshot%202024-03-10%20173544.png?alt=media&token=0fbd9ca3-ac07-4c9f-9c39-c566f71a9f17)](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FRiderRequest.mp4?alt=media&token=491da124-ef61-44b7-a272-6fcfe55b9317)
 
 ## SignUp Authentication demo
-[![Video Thumbnail](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/play_store_512.png?alt=media&token=23f879ad-1093-4145-b669-c39972ccb78d)](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/legalauthentication.mp4?alt=media&token=c91e0726-cdfd-4175-b6b2-12e6146ccf0f)
+[![Video Thumbnail](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FScreenshot%202024-03-10%20173544.png?alt=media&token=0fbd9ca3-ac07-4c9f-9c39-c566f71a9f17)](https://firebasestorage.googleapis.com/v0/b/o7-edai.appspot.com/o/Videoes%2FLegalAuthentication.mp4?alt=media&token=e74e2038-575a-4880-a01f-2bc8bae97399)
 
 
 
