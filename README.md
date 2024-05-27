@@ -97,5 +97,5 @@ Kotlin, Android Studio, Firebase, FCM, API Integration Volley...
 
 
 ## Download link
-[![Download RouteMate APK](https://drive.google.com/file/d/1FK84PWbWpu91wo1sPK1_ytReIGdtHnvB/view?usp=sharing)
+[![Download RouteMate APK](https://img.shields.io/badge/Download%20RouteMate%20APK-Get%20It%20Now!-red?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1FK84PWbWpu91wo1sPK1_ytReIGdtHnvB/view?usp=sharing)
 
